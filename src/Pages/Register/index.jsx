@@ -109,7 +109,7 @@ const Register = () => {
               onChange={(event) => {
                 setPhoneNumber(event.target.value);
               }}
-              placeholder="телефон..."
+              placeholder="+998901234567"
             />
           </Right.Wrap>
           <Right.Wrap>
